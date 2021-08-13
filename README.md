@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Adrian Lucrèce Céleste I'm a software developer and tinkerer, and my pronouns are they/them.
+
+### Contact me at:
+
+- alc@duck.com
+- [contact@adrianlucrececeleste.page](mailto:contact@adrianlucrececeleste.page)
+- [@lucrececeleste](https://twitter.com/lucrececeleste) 
+
 <!--
 **AdrianKoshka/adriankoshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
